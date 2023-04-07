@@ -1,0 +1,18 @@
+body{
+background-color:antiquewhite;    
+}
+
+#score{
+font-size:x-large;
+margin-left:500px;    
+}
+
+#time{
+font-size:x-large;
+float:right;
+margin-right:500px;
+}
+#drawThis{
+    font-size:xx-large;
+    color:red;
+}
